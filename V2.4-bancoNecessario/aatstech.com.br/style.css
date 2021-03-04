@@ -1,0 +1,78 @@
+.body{
+ font-family: 'Trebuchet MS';
+}
+.imgBg{
+  background-image: url('images/vazamento-de-agua.jpg');
+  background-size: cover;
+  filter: brightness(90%);
+  position: relative;
+  height:560px;
+}
+.fonteHome{
+  color:White;
+  filter: none;
+  position:relative;
+  float: right;
+  font-family: 'Trebuchet MS';
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+.bg-light {
+  background-color: #f8f9fa!important;
+  margin-top: -5px!important;
+  padding: 10px;
+  box-shadow: 2px 2px 8px rgba(30,30,30,.2);
+}
+.duvida{
+  width: 400px;
+  margin: auto;
+}
+
+.form-control{
+  margin: 3px 0!important;
+  width: 300px;
+  height:30px;
+  display: inline-block; 
+}
+
+.fone{
+  width: 180px;
+  margin-left: 205px;
+  display: inline-block;
+}
+.duvida{
+  width: 300px;
+  height:50px;
+  display: inline-block;
+}
+.row{
+  margin-right: 0px!important;
+  margin-left: 0px!important;
+}
+.menor{
+  width: 40%;
+}
+.criadores {
+  width: 1000px;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  margin-top: 0; 
+  margin-right: auto; 
+  margin-bottom: 0; 
+  margin-left: auto;
+}
+.bton{
+    margin-left: 185px;
+    width: 115px;
+    display: inline-block; 
+}
+.msg{
+  width: 300px;
+  height:50px;
+}
+
+
+            
